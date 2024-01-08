@@ -1,4 +1,6 @@
 import React from 'react';
+import logo from 'little-lemon/src/Components/nav.js'
+import './nav.css'
 
 function Nav() {
     return (
